@@ -1,0 +1,1425 @@
+@media (min-width: 1400px) {
+
+    /* =========menu part start ====== */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #banner_part h1 {
+        font-size: 56px;
+    }
+
+    /* =========menu part end ====== */
+    /* ==========banner part start ========== */
+    #banner_part {
+        padding-top: 248px;
+        padding-bottom: 110px;
+    }
+
+    #banner_part h2 {
+        font-size: 38px;
+        margin: 21px 0;
+    }
+
+    #banner_part .icon {
+        margin-top: 52px;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    #banner_part p::after {
+        left: 190px;
+    }
+
+    #banner_part p::before {
+        right: 190px;
+    }
+
+    /* ==========banner part end ========== */
+    /* ===========features part start ========= */
+    .heading_icon::after {
+        left: 60px;
+    }
+
+    .heading_icon::before {
+        right: 60px;
+    }
+
+    #features_part {
+        padding-top: 80px;
+        padding-bottom: 45px;
+    }
+
+    .common_heading {
+        font-size: 28px;
+        margin-bottom: 18px;
+    }
+
+    .heading_icon {
+        margin-bottom: 38px;
+    }
+
+    #features_part .item {
+        margin-bottom: 37px;
+    }
+
+    #features_part .text {
+        width: 74%;
+    }
+
+    #features_part .text h2 {
+        font-size: 19px;
+    }
+
+    /* ===========features part end ========= */
+    /* ====timer part start =========== */
+    #timer_part {
+        padding-top: 80px;
+        margin-bottom: 77px;
+    }
+
+    #timer_part h6 {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #timer_part .item {
+        margin-bottom: 50px;
+    }
+
+    #timer_part .img {
+        display: flex;
+        justify-content: center;
+        margin: 30px 0;
+    }
+
+    #timer_part .img img {
+        width: 100%;
+    }
+
+    /* ====timer part end =========== */
+    /* ==========work part start ========= */
+    #work_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 39px;
+    }
+
+    #work_part ul {
+        gap: 15px;
+    }
+
+    #work_part .details .item {
+        flex-wrap: wrap;
+    }
+
+    #work_part .details .item .img {
+        width: 25%;
+    }
+
+    #work_part .details .item .img img {
+        width: 100%;
+    }
+
+    #work_part .details .item .img .overlay {
+        gap: 5px;
+    }
+
+    /* ==========work part end ========= */
+    /* ============team part start ======== */
+    #team_part {
+        padding: 73px 0;
+        padding-bottom: 35px;
+    }
+
+    #team_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #team_part .item {
+        margin-bottom: 50px;
+    }
+
+    #team_part .item .overlay .icon_main {
+        margin-top: 18px;
+    }
+
+    #team_part .item .overlay h3 {
+        font-size: 20px;
+        margin-top: 38px;
+    }
+
+    #team_part .item .overlay p {
+        margin-top: 25px;
+    }
+
+    #work_part .details .overlay h4 {
+        font-size: 15px;
+    }
+
+    /* ============team part end ======== */
+    /* ==========counter up part start ========= */
+    #counter_up_part .overlay {
+        padding-top: 64px;
+        padding-bottom: 85px;
+    }
+
+    #counter_up_part .overlay .icon {
+        height: 100px;
+        width: 100px;
+    }
+
+    #counter_up_part .overlay .icon i {
+        font-size: 50px;
+    }
+
+    #counter_up_part .overlay .item h4 {
+        font-size: 38px;
+    }
+
+    #counter_up_part .overlay .item p {
+        font-size: 16px;
+    }
+
+    /* ==========counter up part end ========= */
+    /* =========discuss part start =========== */
+    #discuss_part {
+        padding: 34px 0;
+    }
+
+    #discuss_part .item_2 input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #discuss_part .item_2 form textarea {
+        margin-top: 39px;
+    }
+
+    #discuss_part .item_3 {
+        display: flex;
+        /*! flex-direction: row; */
+        gap: 9px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    /* =========discuss part end =========== */
+    /* =====map part start ======= */
+    #map_part {
+        margin-top: 20px;
+    }
+
+    /* =====map part end ======= */
+    /* =========footer part start ======= */
+    #footer_part {
+        padding-bottom: 0px;
+    }
+
+    #footer_part h2 {
+        font-size: 21px;
+    }
+
+    #footer_part h2 {
+        margin-bottom: 25px;
+    }
+
+    #footer_part .item {
+        margin-bottom: 41px;
+    }
+
+    #footer_part .item ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* =========footer part end ======= */
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* =========menu part start ====== */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #banner_part h1 {
+        font-size: 56px;
+    }
+
+    /* =========menu part end ====== */
+    /* ==========banner part start ========== */
+    #banner_part {
+        padding-top: 248px;
+        padding-bottom: 110px;
+    }
+
+    #banner_part h2 {
+        font-size: 38px;
+        margin: 21px 0;
+    }
+
+    #banner_part .icon {
+        margin-top: 52px;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    #banner_part p::after {
+        left: 190px;
+    }
+
+    #banner_part p::before {
+        right: 190px;
+    }
+
+    /* ==========banner part end ========== */
+    /* ===========features part start ========= */
+    .heading_icon::after {
+        left: 60px;
+    }
+
+    .heading_icon::before {
+        right: 60px;
+    }
+
+    #features_part {
+        padding-top: 80px;
+        padding-bottom: 45px;
+    }
+
+    .common_heading {
+        font-size: 28px;
+        margin-bottom: 18px;
+    }
+
+    .heading_icon {
+        margin-bottom: 38px;
+    }
+
+    #features_part .item {
+        margin-bottom: 37px;
+    }
+
+    #features_part .text {
+        width: 74%;
+    }
+
+    #features_part .text h2 {
+        font-size: 19px;
+    }
+
+    /* ===========features part end ========= */
+    /* ====timer part start =========== */
+    #timer_part {
+        padding-top: 80px;
+        margin-bottom: 77px;
+    }
+
+    #timer_part h6 {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #timer_part .item {
+        margin-bottom: 50px;
+    }
+
+    #timer_part .img {
+        display: flex;
+        justify-content: center;
+        margin: 30px 0;
+    }
+
+    #timer_part .img img {
+        width: 100%;
+    }
+
+    /* ====timer part end =========== */
+    /* ==========work part start ========= */
+    #work_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 39px;
+    }
+
+    #work_part ul {
+        gap: 15px;
+    }
+
+    #work_part .details .item {
+        flex-wrap: wrap;
+    }
+
+    #work_part .details .item .img {
+        width: 25%;
+    }
+
+    #work_part .details .item .img img {
+        width: 100%;
+    }
+
+    #work_part .details .item .img .overlay {
+        gap: 5px;
+    }
+
+    /* ==========work part end ========= */
+    /* ============team part start ======== */
+    #team_part {
+        padding: 73px 0;
+        padding-bottom: 35px;
+    }
+
+    #team_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #team_part .item {
+        margin-bottom: 50px;
+    }
+
+    #team_part .item .overlay .icon_main {
+        margin-top: 18px;
+    }
+
+    #team_part .item .overlay h3 {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+
+    #team_part .item .overlay p {
+        margin-top: 13px;
+    }
+
+    #work_part .details .overlay h4 {
+        font-size: 15px;
+    }
+
+    /* ============team part end ======== */
+    /* ==========counter up part start ========= */
+    #counter_up_part .overlay {
+        padding-top: 64px;
+        padding-bottom: 85px;
+    }
+
+    #counter_up_part .overlay .icon {
+        height: 100px;
+        width: 100px;
+    }
+
+    #counter_up_part .overlay .icon i {
+        font-size: 50px;
+    }
+
+    #counter_up_part .overlay .item h4 {
+        font-size: 38px;
+    }
+
+    #counter_up_part .overlay .item p {
+        font-size: 16px;
+    }
+
+    /* ==========counter up part end ========= */
+    /* =========discuss part start =========== */
+    #discuss_part {
+        padding: 34px 0;
+    }
+
+    #discuss_part .item_2 input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #discuss_part .item_2 form textarea {
+        margin-top: 39px;
+    }
+
+    #discuss_part .item_3 {
+        display: flex;
+        /*! flex-direction: row; */
+        gap: 9px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    /* =========discuss part end =========== */
+    /* =====map part start ======= */
+    #map_part {
+        margin-top: 20px;
+    }
+
+    /* =====map part end ======= */
+    /* =========footer part start ======= */
+    #footer_part {
+        padding-bottom: 0px;
+    }
+
+    #footer_part h2 {
+        font-size: 21px;
+    }
+
+    #footer_part h2 {
+        margin-bottom: 25px;
+    }
+
+    #footer_part .item {
+        margin-bottom: 41px;
+    }
+
+    #footer_part .item ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* =========footer part end ======= */
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* =========menu part start ====== */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #banner_part h1 {
+        font-size: 50px;
+    }
+
+    /* =========menu part end ====== */
+    /* ==========banner part start ========== */
+    #banner_part {
+        padding-top: 248px;
+        padding-bottom: 100px;
+    }
+
+    #banner_part h2 {
+        font-size: 34px;
+        margin: 19px 0;
+    }
+
+    #banner_part .icon {
+        margin-top: 52px;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    /* ==========banner part end ========== */
+    /* ===========features part start ========= */
+    .heading_icon::after {
+        left: 180px;
+    }
+
+    .heading_icon::before {
+        right: 180px;
+    }
+
+    #features_part {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .common_heading {
+        font-size: 24px;
+        margin-bottom: 17px;
+    }
+
+    .heading_icon {
+        margin-bottom: 38px;
+    }
+
+    #features_part .item {
+        margin-bottom: 37px;
+    }
+
+    #features_part .text {
+        width: 74%;
+    }
+
+    /* ===========features part end ========= */
+    /* ====timer part start =========== */
+    #timer_part {
+        padding-top: 75px;
+        margin-bottom: 77px;
+    }
+
+    #timer_part h6 {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #timer_part .item {
+        margin-bottom: 50px;
+    }
+
+    #timer_part .img {
+        display: flex;
+        justify-content: center;
+        margin: 30px 0;
+    }
+
+    #timer_part .img img {
+        width: 100%;
+    }
+
+    /* ====timer part end =========== */
+    /* ==========work part start ========= */
+    #work_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 39px;
+    }
+
+    #work_part ul {
+        gap: 15px;
+    }
+
+    #work_part .details .item {
+        flex-wrap: wrap;
+    }
+
+    #work_part .details .item .img {
+        width: 25%;
+    }
+
+    #work_part .details .item .img img {
+        width: 100%;
+    }
+
+    #work_part .details .item .img .overlay {
+        gap: 5px;
+    }
+
+    /* ==========work part end ========= */
+    /* ============team part start ======== */
+    #team_part {
+        padding: 60px 0;
+        padding-bottom: 20px;
+    }
+
+    #team_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #team_part .item {
+        margin-bottom: 50px;
+    }
+
+    #team_part .item .overlay .icon_main {
+        margin-top: 18px;
+    }
+
+    #team_part .item .overlay h3 {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+
+    #team_part .item .overlay p {
+        margin-top: 13px;
+    }
+
+    #work_part .details .overlay h4 {
+        font-size: 15px;
+    }
+
+    /* ============team part end ======== */
+    /* ==========counter up part start ========= */
+    #counter_up_part .overlay {
+        padding-top: 64px;
+        padding-bottom: 85px;
+    }
+
+    #counter_up_part .overlay .icon {
+        height: 80px;
+        width: 80px;
+    }
+
+    #counter_up_part .overlay .icon i {
+        font-size: 34px;
+    }
+
+    #counter_up_part .overlay .item h4 {
+        font-size: 33px;
+    }
+
+    /* ==========counter up part end ========= */
+    /* =========discuss part start =========== */
+    #discuss_part {
+        padding: 34px 0;
+    }
+
+    #discuss_part .item_2 input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #discuss_part .item_2 form textarea {
+        margin-top: 39px;
+    }
+
+    #discuss_part .item_3 {
+        display: flex;
+        /*! flex-direction: row; */
+        gap: 9px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    /* =========discuss part end =========== */
+    /* =====map part start ======= */
+    #map_part {
+        margin-top: 20px;
+    }
+
+    /* =====map part end ======= */
+    /* =========footer part start ======= */
+    #footer_part {
+        padding-bottom: 0px;
+    }
+
+    #footer_part h2 {
+        margin-bottom: 25px;
+    }
+
+    #footer_part .item {
+        margin-bottom: 41px;
+    }
+
+    #footer_part .item ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* =========footer part end ======= */
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* =========menu part start ====== */
+    #main_menu .toggler_icon {
+        font-size: 25px;
+        color: #4c76ff;
+        /*! margin: auto 0; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu ul li a {
+        padding: 12px 0;
+    }
+
+    #main_menu ul li {
+        margin-left: 80%;
+    }
+
+    #banner_part h1 {
+        font-size: 43px;
+    }
+
+    /* =========menu part end ====== */
+    /* ==========banner part start ========== */
+    #banner_part {
+        padding-top: 248px;
+        padding-bottom: 80px;
+    }
+
+    #banner_part h2 {
+        font-size: 33px;
+        margin: 15px 0;
+    }
+
+    #banner_part .icon {
+        margin-top: 52px;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    /* ==========banner part end ========== */
+    /* ===========features part start ========= */
+    .heading_icon::after {
+        left: 220px;
+    }
+
+    .heading_icon::before {
+        right: 220px;
+    }
+
+    #features_part {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .common_heading {
+        font-size: 22px;
+        margin-bottom: 13px;
+    }
+
+    .heading_icon {
+        margin-bottom: 38px;
+    }
+
+    #features_part .item {
+        margin-bottom: 37px;
+    }
+
+    #features_part .text {
+        width: 74%;
+    }
+
+    /* ===========features part end ========= */
+    /* ====timer part start =========== */
+    #timer_part {
+        padding-top: 38px;
+        margin-bottom: 77px;
+    }
+
+    #timer_part h6 {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #timer_part .item {
+        margin-bottom: 50px;
+    }
+
+    #timer_part .img {
+        display: flex;
+        justify-content: center;
+        margin: 30px 0;
+    }
+
+    #timer_part .img img {
+        width: 100%;
+    }
+
+    /* ====timer part end =========== */
+    /* ==========work part start ========= */
+    #work_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 39px;
+    }
+
+    #work_part ul {
+        gap: 15px;
+    }
+
+    #work_part .details .item {
+        flex-wrap: wrap;
+    }
+
+    #work_part .details .item .img {
+        width: 25%;
+    }
+
+    #work_part .details .item .img img {
+        width: 100%;
+    }
+
+    #work_part .details .item .img .overlay {
+        gap: 5px;
+    }
+
+    /* ==========work part end ========= */
+    /* ============team part start ======== */
+    #team_part {
+        padding: 60px 0;
+        padding-bottom: 0;
+    }
+
+    #team_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #team_part .item {
+        margin-bottom: 50px;
+    }
+
+    #team_part .item .overlay .icon_main {
+        margin-top: 36px;
+    }
+
+    #team_part .item .overlay h3 {
+        font-size: 18px;
+        margin-top: 45px;
+    }
+
+    #team_part .item .overlay p {
+        margin-top: 27px;
+    }
+
+    #work_part .details .overlay h4 {
+        font-size: 15px;
+    }
+
+    /* ============team part end ======== */
+    /* ==========counter up part start ========= */
+    #counter_up_part .overlay {
+        padding-top: 47px;
+        padding-bottom: 75px;
+    }
+
+    #counter_up_part .overlay .icon {
+        height: 75px;
+        width: 75px;
+    }
+
+    #counter_up_part .overlay .icon i {
+        font-size: 28px;
+    }
+
+    #counter_up_part .overlay .item h4 {
+        font-size: 33px;
+    }
+
+    /* ==========counter up part end ========= */
+    /* =========discuss part start =========== */
+    #discuss_part {
+        padding: 34px 0;
+    }
+
+    #discuss_part .item_2 input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #discuss_part .item_2 form textarea {
+        margin-top: 39px;
+    }
+
+    #discuss_part .item_3 {
+        display: flex;
+        /*! flex-direction: row; */
+        gap: 9px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    /* =========discuss part end =========== */
+    /* =====map part start ======= */
+    #map_part {
+        margin-top: 20px;
+    }
+
+    /* =====map part end ======= */
+    /* =========footer part start ======= */
+    #footer_part {
+        padding-bottom: 0px;
+    }
+
+    #footer_part h2 {
+        margin-bottom: 25px;
+    }
+
+    #footer_part .item {
+        margin-bottom: 41px;
+    }
+
+    #footer_part .item ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* =========footer part end ======= */
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* =========menu part start ====== */
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: #4c76ff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu ul li a {
+        padding: 12px 0;
+    }
+
+    #main_menu ul li {
+        margin-left: 80%;
+        /*! margin-right: 20%; */
+    }
+
+    #banner_part h1 {
+        font-size: 40px;
+    }
+
+    /* =========menu part end ====== */
+    /* ==========banner part start ========== */
+    #banner_part {
+        padding-top: 248px;
+        padding-bottom: 80px;
+    }
+
+    #banner_part h2 {
+        font-size: 30px;
+        margin: 13px 0;
+    }
+
+    #banner_part p::after {
+        display: none;
+    }
+
+    #banner_part p::before {
+        display: none;
+    }
+
+    #banner_part .icon {
+        margin-top: 52px;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    /* ==========banner part end ========== */
+    /* ===========features part start ========= */
+    .heading_icon::after {
+        left: 140px;
+    }
+
+    .heading_icon::before {
+        right: 140px;
+    }
+
+    #features_part {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .common_heading {
+        font-size: 22px;
+        margin-bottom: 13px;
+    }
+
+    .heading_icon {
+        margin-bottom: 38px;
+    }
+
+    #features_part .item {
+        margin-bottom: 37px;
+    }
+
+    /* ===========features part end ========= */
+    /* ====timer part start =========== */
+    #timer_part {
+        padding-top: 38px;
+        margin-bottom: 77px;
+    }
+
+    #timer_part h6 {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #timer_part .item {
+        margin-bottom: 50px;
+    }
+
+    #timer_part .img {
+        display: flex;
+        justify-content: center;
+        margin: 30px 0;
+    }
+
+    /* ====timer part end =========== */
+    /* ==========work part start ========= */
+    #work_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 39px;
+    }
+
+    #work_part ul {
+        gap: 15px;
+    }
+
+    #work_part .details .item {
+        flex-wrap: wrap;
+    }
+
+    #work_part .details .item .img {
+        width: 50%;
+    }
+
+    #work_part .details .item .img img {
+        width: 100%;
+    }
+
+    #work_part .details .item .img .overlay {
+        gap: 5px;
+    }
+
+    /* ==========work part end ========= */
+    /* ============team part start ======== */
+    #team_part {
+        padding: 60px 0;
+        padding-bottom: 0;
+    }
+
+    #team_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #team_part .item {
+        margin-bottom: 50px;
+    }
+
+    #team_part .item .overlay .icon_main {
+        margin-top: 28px;
+    }
+
+    #team_part .item .overlay h3 {
+        font-size: 16px;
+        margin-top: 45px;
+    }
+
+    #team_part .item .overlay p {
+        margin-top: 26px;
+    }
+
+    #work_part .details .overlay h4 {
+        font-size: 15px;
+    }
+
+    /* ============team part end ======== */
+    /* ==========counter up part start ========= */
+    #counter_up_part .overlay {
+        padding-top: 47px;
+        padding-bottom: 75px;
+    }
+
+    #counter_up_part .overlay .icon {
+        height: 60px;
+        width: 60px;
+    }
+
+    #counter_up_part .overlay .icon i {
+        font-size: 28px;
+    }
+
+    #counter_up_part .overlay .item h4 {
+        font-size: 30px;
+    }
+
+    /* ==========counter up part end ========= */
+    /* =========discuss part start =========== */
+    #discuss_part {
+        padding: 34px 0;
+    }
+
+    #discuss_part .item_2 input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #discuss_part .item_2 form textarea {
+        margin-top: 39px;
+    }
+
+    #discuss_part .item_3 {
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    /* =========discuss part end =========== */
+    /* =====map part start ======= */
+    #map_part {
+        margin-top: 20px;
+    }
+
+    /* =====map part end ======= */
+    /* =========footer part start ======= */
+    #footer_part {
+        padding-bottom: 0px;
+    }
+
+    #footer_part h2 {
+        margin-bottom: 25px;
+    }
+
+    #footer_part .item {
+        margin-bottom: 41px;
+    }
+
+    #footer_part .item ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* =========footer part end ======= */
+
+}
+
+@media (max-width: 575.98px) {
+
+    /* =========menu part start ====== */
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: #4c76ff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #main_menu ul li a {
+        padding: 12px 0;
+    }
+
+    #main_menu ul li {
+        margin-left: 50%;
+        margin-right: 20%;
+    }
+
+    #banner_part h1 {
+        font-size: 40px;
+    }
+
+    /* =========menu part end ====== */
+    /* ==========banner part start ========== */
+    #banner_part {
+        padding-top: 248px;
+        padding-bottom: 55px;
+    }
+
+    #banner_part h2 {
+        font-size: 30px;
+        margin: 13px 0;
+    }
+
+    #banner_part p::after {
+        display: none;
+    }
+
+    #banner_part p::before {
+        display: none;
+    }
+
+    #banner_part .icon {
+        margin-top: 52px;
+        justify-content: center;
+        gap: 25px;
+    }
+
+    /* ==========banner part end ========== */
+    /* ===========features part start ========= */
+    .heading_icon::after {
+        left: 73px;
+    }
+
+    .heading_icon::before {
+        right: 73px;
+    }
+
+    #features_part {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .common_heading {
+        font-size: 22px;
+        margin-bottom: 13px;
+    }
+
+    .heading_icon {
+        margin-bottom: 38px;
+    }
+
+    #features_part .item {
+        margin-bottom: 37px;
+    }
+
+    /* ===========features part end ========= */
+    /* ====timer part start =========== */
+    #timer_part {
+        padding-top: 38px;
+        margin-bottom: 77px;
+    }
+
+    #timer_part h6 {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #timer_part .item {
+        margin-bottom: 50px;
+    }
+
+    #timer_part .img {
+        display: flex;
+        justify-content: center;
+        margin: 30px 0;
+    }
+
+    /* ====timer part end =========== */
+    /* ==========work part start ========= */
+    #work_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 39px;
+    }
+
+    #work_part ul {
+        gap: 15px;
+    }
+
+    #work_part .details .item {
+        flex-wrap: wrap;
+    }
+
+    #work_part .details .item .img {
+        width: 50%;
+    }
+
+    #work_part .details .item .img img {
+        width: 100%;
+    }
+
+    #work_part .details .item .img .overlay {
+        gap: 5px;
+    }
+
+    /* ==========work part end ========= */
+    /* ============team part start ======== */
+    #team_part {
+        padding: 60px 0;
+        padding-bottom: 0;
+    }
+
+    #team_part h6 {
+        font-size: 15px;
+        line-height: 22px;
+        margin-bottom: 40px;
+    }
+
+    #team_part .item {
+        margin-bottom: 50px;
+    }
+
+    #team_part .item .overlay .icon_main {
+        margin-top: 20px;
+    }
+
+    #team_part .item .overlay h3 {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    #team_part .item .overlay p {
+        display: none;
+    }
+
+    #work_part .details .overlay h4 {
+        font-size: 15px;
+    }
+
+    /* ============team part end ======== */
+    /* ==========counter up part start ========= */
+    #counter_up_part .overlay {
+        padding-top: 47px;
+        padding-bottom: 75px;
+    }
+
+    #counter_up_part .overlay .icon {
+        height: 60px;
+        width: 60px;
+    }
+
+    #counter_up_part .overlay .icon i {
+        font-size: 28px;
+    }
+
+    #counter_up_part .overlay .item h4 {
+        font-size: 30px;
+    }
+
+    /* ==========counter up part end ========= */
+    /* =========discuss part start =========== */
+    #discuss_part {
+        padding: 34px 0;
+    }
+
+    #discuss_part .item_2 input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #discuss_part .item_2 form textarea {
+        margin-top: 39px;
+    }
+
+    #discuss_part .item_3 {
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    /* =========discuss part end =========== */
+    /* =====map part start ======= */
+    #map_part {
+        margin-top: 20px;
+    }
+
+    /* =====map part end ======= */
+    /* =========footer part start ======= */
+    #footer_part {
+        padding-bottom: 0px;
+    }
+
+    #footer_part h2 {
+        margin-bottom: 25px;
+    }
+
+    #footer_part .item {
+        margin-bottom: 41px;
+    }
+
+    #footer_part .item ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* =========footer part end ======= */
+
+}
