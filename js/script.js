@@ -11,8 +11,8 @@ $('.counter').counterUp();
   });
   // ========back to top part ======
    // =========sticky menu part ========
-var main_menu = document.getElementById("main_menu");
+var mainMenu = document.getElementById("main_menu");
 window.addEventListener("scroll",function(){
-main_menu.classList.toggle("sticky",window.scrollY > 100);
+mainMenu.classList.toggle("sticky",window.scrollY > 100);
 })
 // =========sticky menu part ========
